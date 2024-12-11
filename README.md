@@ -10,7 +10,7 @@ In this folder you can find the R Markdown script and its accompaning .html file
 ## Transcriptomic analysis
 
 Here there is an R Markdown and its accompaning .html files that all explain how I analyzed the RNAseq data analysis.
-The pre processing of the RNA sequences: alignment and Kallisto (https://github.com/pachterlab/kallisto) RNA-seq quantification can be found in https://github.com/afeurtey/Gene_coexpression_network/.   
+The pre processing of the RNA sequences was done with Kallisto (https://github.com/pachterlab/kallisto) RNA-seq quantification.   
 
 --- 
 ### Disclaimer
